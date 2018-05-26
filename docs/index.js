@@ -48,7 +48,7 @@ var HORSE = {
 	top: 434
 }
 
-var IMAGE_DIR = '../images/';
+var IMAGE_DIR = 'images/';
 
 var ANIMALS = [YOU, CHILD, BOLT, CHEETAH, TYPHOON, CAR, HORSE];
 var HEIGHT = 544;
